@@ -1,3 +1,3 @@
 # Ambrosia Project 
 
-<img src="Proposal document.pdf"  />
+<a href="Proposal document.pdf">Proposal Document</a>
