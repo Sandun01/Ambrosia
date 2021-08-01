@@ -9,7 +9,7 @@
 </h2>
 
 <h5>
-	<font color="#BF0000">For educational purposes only.</font>
+	:no_entry:  For educational purposes only.
 </h5>
 
 
