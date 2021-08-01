@@ -9,7 +9,7 @@
 </h2>
 
 <h5>
-	:no_entry:  For educational purposes only.
+	:no_entry: For educational purposes only. :no_entry:
 </h5>
 
 
