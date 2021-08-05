@@ -5,7 +5,7 @@
 </h2>
 
 <h2>
-  <a href=" ITP2020_S2_05_G2.pdf">Final Report</a>
+  <a href="ITP2020_S2_05_G2.pdf">Final Report</a>
 </h2>
 
 <h5>
